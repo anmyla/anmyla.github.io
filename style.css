@@ -16,7 +16,7 @@ header {
                height: 25px;
                width: 100%
                color: #ffffff;
-               font-family: courier new, monospace;
+               font-family:  Monospace;
                }
 
        .navbar {
@@ -27,7 +27,7 @@ header {
 
        .navbar a {
                background-color: #f1d6ab;
-               font-family: courier new, monospace;
+               font-family: Mnospace;
                font-size: 16px;
                display: block;
                color: #2B2B28;
@@ -48,7 +48,7 @@ header {
 
       h1 {
                font-size: 50px;
-               font-family: Chalkduster, fantasy;
+               font-family:  Monospace;
                color: #ffffff;
 
 
@@ -63,7 +63,7 @@ header {
              
       body {
                color: #2B2B28;
-               font-family: courier new, monospace;
+               font-family: Monospace;
                background-color: #ffffff;
                font-size: 14px;
                margin: 20px;
@@ -124,7 +124,7 @@ header {
                width: 100%;
                padding-top: 5px;
                color: #ffffff;
-               font-family: courier new, monospace;
+               font-family: Monospace;
                font-size: 14px;
                text-align: center;
                }
