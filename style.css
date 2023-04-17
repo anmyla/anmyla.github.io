@@ -127,6 +127,9 @@ header {
                font-family: Monospace;
                font-size: 14px;
                text-align: center;
+               padding-left: 15px;
+               padding-right: 15px;
+               padding-bottom: 10px;
                }
 /*------------------------*/
 div.complete {
