@@ -2,7 +2,7 @@
 This project is a part of our very first subject on WEB DEVELOPMENT.
 It is a homework and it requires us to create a simple website using only HTML and CSS.
 
-To view the this project, click here:  [https://anmyla.github.io/index.html](https://anmyla.github.io/index.html target= "_blank")
+To view the this project, click here:   [Cookie's Wonderpurr Wold](https://anmyla.github.io/index.html)
 
 <!--
 **anmyla/anmyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
